@@ -1,3 +1,3 @@
 ## Leetcode problems
 
-This repo are random Leetcode problems I solved probably mostly in Java and Python
+This repo are random Leetcode problems I solved probably in Python3 (probably java and scala in the future)
